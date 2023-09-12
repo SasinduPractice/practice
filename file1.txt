@@ -2,3 +2,4 @@ Fruit List
 
 Banana
 Mango
+Apple
